@@ -1,0 +1,265 @@
+1, 7.0, pasta
+1, 8.0, burger, fish, beer, wine, rissotto, pizza, egg, puri, pasta
+1, 7.0, wine
+1, 8.0, beer, burger, fish, rissotto, pizza, wine, puri
+1, 10.0, idly
+1, 9.0, pasta, pizza, burger, fish, egg, idly, puri, rissotto, wine
+1, 5.0, beer, puri
+1, 9.0, idly, burger
+1, 9.0, beer, egg, idly, wine, pizza, pasta, burger
+1, 9.0, egg
+1, 4.0, beer, burger, egg, pasta, fish, puri, wine
+1, 2.0, fish
+1, 2.0, burger, wine, idly, egg, rissotto, fish
+1, 8.0, pizza, idly, puri, wine
+1, 10.0, beer
+1, 2.0, burger, pizza, pasta, wine, idly, fish, rissotto, egg
+1, 7.0, fish, rissotto, idly, pasta
+1, 6.0, egg, idly, pizza, beer, wine
+1, 7.0, pizza
+1, 8.0, fish, idly, wine, pasta, beer, egg, puri, pizza, burger, rissotto
+1, 4.0, rissotto
+1, 8.0, wine, puri, fish, pasta
+1, 8.0, rissotto, puri
+1, 6.0, puri
+1, 5.0, beer, rissotto, wine, idly, puri, burger, fish, egg, pasta
+1, 8.0, idly, pasta, beer
+1, 8.0, burger
+1, 3.0, idly, beer, egg, puri, burger, pizza, fish
+1, 10.0, beer, egg, idly, puri, burger, rissotto
+2, 8.0, beer
+2, 9.0, fish, burger, pasta, idly
+2, 7.0, pizza
+2, 5.0, beer, rissotto, pizza
+2, 2.0, rissotto
+2, 9.0, egg, burger, pasta, beer, pizza, rissotto, puri, fish
+2, 6.0, fish
+2, 4.0, fish, rissotto, idly, pasta, burger, egg
+2, 6.0, idly
+2, 8.0, pasta, puri, egg, wine, idly, fish, pizza, rissotto
+2, 2.0, egg, fish, idly, burger, rissotto, puri, wine, pasta, pizza, beer
+2, 10.0, idly, pasta, egg, pizza, puri, fish, burger, wine, beer
+2, 3.0, rissotto, puri, burger
+2, 7.0, wine
+2, 3.0, fish, beer, wine, pasta, pizza
+2, 2.0, beer, egg, pizza, pasta, burger, wine, puri
+2, 3.0, burger
+2, 7.0, puri
+2, 3.0, puri, idly, pizza, rissotto, egg, fish, wine, beer, burger
+2, 8.0, wine, egg
+2, 7.0, pizza, egg, idly, wine, rissotto
+2, 2.0, pasta
+2, 2.0, pasta, puri, pizza, rissotto, idly
+2, 10.0, pizza, pasta, beer, burger, egg, puri, fish
+2, 2.0, pasta, idly, egg, burger, pizza, rissotto, beer, wine, fish
+2, 2.0, beer, egg, pasta, puri
+3, 7.0, rissotto
+3, 7.0, fish, egg, idly, wine, puri
+3, 6.0, burger
+3, 5.0, idly, beer, pasta, fish
+3, 9.0, egg
+3, 6.0, wine, beer, idly, fish, puri, egg, pasta, burger
+3, 5.0, beer
+3, 4.0, rissotto, idly, beer, puri, pasta, wine, burger, egg
+3, 8.0, burger, idly, egg, rissotto, pizza, pasta, beer, fish, wine, puri
+3, 7.0, idly, wine, burger, puri, pasta, fish
+3, 7.0, burger, idly, egg, pasta, beer, rissotto, puri, wine, fish
+3, 2.0, pizza, beer, pasta, puri, idly, egg, burger, wine, fish
+3, 3.0, burger, rissotto, fish, puri, idly, egg, pizza, beer
+3, 9.0, burger, egg, fish, wine, beer
+3, 3.0, pizza
+3, 3.0, fish, egg, pasta
+3, 6.0, puri, beer, pizza, burger, wine, idly, pasta, egg
+3, 10.0, egg, beer, rissotto, idly, fish, puri
+3, 8.0, fish
+3, 2.0, rissotto, pasta, burger, egg, wine, idly, pizza, puri, beer
+3, 2.0, idly
+3, 8.0, fish, egg, burger, pasta, wine
+3, 6.0, wine, burger, egg, fish
+3, 5.0, puri, pizza, egg, rissotto
+4, 5.0, burger
+4, 3.0, wine, egg, puri, rissotto, pasta, burger, pizza, beer, idly, fish
+4, 4.0, pasta
+4, 5.0, fish, egg, rissotto, wine
+4, 4.0, puri, idly, fish
+4, 8.0, pizza
+4, 10.0, egg, rissotto, beer, idly
+4, 2.0, beer
+4, 5.0, rissotto, beer, wine, burger, puri, idly
+4, 9.0, puri
+4, 3.0, idly, egg, fish, beer, burger
+4, 6.0, egg, idly
+4, 4.0, puri, rissotto
+4, 9.0, egg
+4, 9.0, beer, puri, pasta, rissotto, pizza, fish, egg, burger, wine
+4, 6.0, pasta, fish, rissotto, idly
+4, 8.0, pizza, idly, burger, puri, egg, fish, pasta, rissotto, beer
+4, 9.0, egg, pasta
+4, 5.0, rissotto, pizza, fish
+4, 8.0, idly
+4, 2.0, fish, beer, idly, rissotto, wine, burger, pizza
+4, 4.0, fish, rissotto, pizza, beer, wine
+4, 7.0, rissotto
+4, 7.0, burger, rissotto, puri, beer, idly, wine, egg, pizza, pasta
+4, 10.0, wine
+4, 8.0, fish, wine, idly, pizza, rissotto, puri
+4, 4.0, burger, egg, idly, pasta, rissotto, pizza
+5, 8.0, idly
+5, 10.0, egg, pasta, idly, wine, puri, pizza, fish, burger
+5, 10.0, puri
+5, 4.0, beer, puri, pizza, burger, egg, pasta, idly, rissotto, fish
+5, 7.0, egg
+5, 9.0, beer, pasta, pizza, egg, puri
+5, 2.0, fish
+5, 4.0, egg, rissotto, burger, pasta, pizza, wine, fish
+5, 9.0, wine
+5, 8.0, pizza, fish, beer, rissotto
+5, 2.0, pizza
+5, 2.0, wine, egg, puri, idly, pizza, beer
+5, 5.0, idly, wine, fish, pasta, rissotto
+5, 7.0, pasta, burger, wine, rissotto, egg, fish, idly, puri
+5, 4.0, fish, wine, egg, pasta, puri, burger, pizza
+5, 8.0, fish, rissotto, idly, egg, burger, pizza, beer, puri, wine
+5, 2.0, rissotto
+5, 10.0, rissotto, pizza
+5, 6.0, pizza, pasta, egg
+5, 4.0, beer, pasta, wine, burger, puri, idly, egg, pizza, rissotto
+5, 8.0, beer, pizza, wine, fish
+5, 7.0, pasta, pizza, idly, rissotto, egg, beer, burger
+5, 10.0, pasta
+5, 9.0, egg, fish, rissotto
+5, 5.0, egg, burger, puri
+5, 5.0, beer
+5, 8.0, fish, pasta, beer, egg, puri
+5, 6.0, puri, pasta, beer, burger, egg, pizza, rissotto, idly, wine, fish
+6, 5.0, fish
+6, 8.0, idly, pasta, fish, wine
+6, 5.0, puri
+6, 4.0, beer, pasta, burger
+6, 3.0, burger
+6, 5.0, idly, beer, pizza, rissotto, egg, pasta, wine
+6, 2.0, wine
+6, 3.0, burger, pasta, rissotto, puri, wine
+6, 5.0, rissotto
+6, 8.0, pasta, rissotto
+6, 7.0, beer, idly, pasta, fish, pizza
+6, 8.0, pasta, pizza, beer
+6, 9.0, pasta
+6, 7.0, pasta, pizza, beer, fish, egg
+6, 8.0, rissotto, pizza, wine, beer, puri, idly, egg, pasta, burger, fish
+6, 5.0, idly
+6, 4.0, idly, burger, fish, rissotto, pizza, wine, pasta
+6, 6.0, pizza
+6, 5.0, pizza, rissotto, pasta, puri, egg, burger
+6, 2.0, pasta, beer, burger, fish
+6, 8.0, egg
+6, 6.0, burger, beer, rissotto, idly, egg, pizza, wine
+6, 7.0, pizza, burger, rissotto, egg, pasta, fish, puri, wine
+6, 8.0, idly, wine, fish, rissotto, burger, egg
+6, 9.0, puri, rissotto, wine, fish, pizza, burger, pasta, egg, beer
+6, 9.0, beer, puri, burger, idly, fish, pasta
+6, 10.0, fish, egg, rissotto, idly, burger, beer, puri
+7, 7.0, puri
+7, 7.0, idly, wine, fish, burger, rissotto, egg, pizza, beer, puri
+7, 5.0, beer
+7, 2.0, pizza, wine, fish
+7, 4.0, egg
+7, 5.0, pizza, beer, fish, puri, burger, egg
+7, 8.0, rissotto
+7, 3.0, egg, beer, idly
+7, 6.0, puri, burger, pizza, beer, fish, rissotto, wine, idly, egg, pasta
+7, 7.0, pizza, burger
+7, 4.0, burger
+7, 9.0, egg, beer, idly, fish, pizza, wine, burger
+7, 5.0, pizza
+7, 9.0, beer, puri, burger
+7, 9.0, fish, egg, idly, rissotto
+7, 4.0, wine
+7, 7.0, fish, pizza, rissotto, egg
+7, 10.0, egg, rissotto, fish, pizza, beer, burger
+7, 7.0, puri, egg, wine, idly, pizza, burger
+7, 5.0, fish, puri, rissotto, egg, idly, pizza, pasta, wine
+7, 10.0, pizza, wine
+8, 7.0, egg
+8, 5.0, idly, fish, wine, pizza, pasta, rissotto
+8, 8.0, pasta, wine, egg, puri, beer
+8, 2.0, idly
+8, 7.0, puri, pizza
+8, 3.0, pizza
+8, 4.0, idly, wine, egg
+8, 3.0, rissotto
+8, 3.0, idly, egg, fish, wine, pizza, beer
+8, 3.0, fish
+8, 8.0, wine, beer, pasta, puri, burger, egg, rissotto, pizza, idly, fish
+8, 4.0, burger
+8, 6.0, puri, fish, idly
+8, 9.0, pasta, beer, wine, rissotto, egg, puri, idly
+8, 2.0, pasta
+8, 5.0, pasta, beer, egg, idly, burger
+8, 10.0, pizza, egg, rissotto
+8, 8.0, rissotto, puri, idly
+8, 8.0, beer, rissotto, fish, puri, pizza, egg
+8, 9.0, egg, puri, wine, idly, pizza, burger, beer, fish
+8, 10.0, beer, wine, fish
+8, 9.0, wine
+8, 8.0, pasta, rissotto
+8, 7.0, beer
+8, 8.0, beer, egg, wine
+8, 6.0, pasta, beer, burger, pizza, wine, puri
+8, 2.0, pasta, egg, idly, fish, wine
+8, 7.0, pasta, puri, fish, rissotto, wine, idly, burger
+8, 9.0, idly, puri
+8, 3.0, puri, idly, rissotto, burger, wine, egg, fish, beer
+8, 2.0, puri, fish, pasta, pizza, beer
+8, 10.0, rissotto, pizza
+9, 3.0, pasta
+9, 6.0, puri, wine, pasta
+9, 6.0, beer
+9, 9.0, pizza, wine, pasta, idly, burger, rissotto, egg
+9, 5.0, wine
+9, 5.0, fish, puri, pizza, pasta, wine
+9, 3.0, idly
+9, 5.0, egg, puri, beer, wine, fish
+9, 2.0, pizza
+9, 10.0, burger, fish, idly, puri
+9, 7.0, rissotto
+9, 6.0, egg, rissotto, wine, fish
+9, 3.0, burger
+9, 6.0, wine, puri, rissotto, idly, pizza
+9, 10.0, puri
+9, 5.0, fish, rissotto, egg
+9, 6.0, fish, puri, egg, pizza, idly, pasta, rissotto, wine
+9, 2.0, egg, pizza, wine, burger, idly, puri
+9, 4.0, fish
+9, 10.0, egg, beer, wine
+9, 10.0, idly, pasta
+9, 9.0, wine, pasta, idly, rissotto, burger, pizza, fish, egg, puri
+9, 8.0, puri, burger, egg, wine, rissotto, beer, pasta, pizza, idly, fish
+9, 4.0, puri, idly, rissotto, burger, pasta
+9, 8.0, egg, idly
+9, 6.0, fish, pizza, egg
+9, 8.0, egg
+9, 7.0, puri, pasta, fish, beer
+10, 7.0, pizza
+10, 5.0, rissotto, pasta, burger
+10, 5.0, pasta
+10, 8.0, pasta, pizza, egg, rissotto
+10, 9.0, wine
+10, 4.0, egg, wine, fish, burger, pizza, pasta, beer
+10, 8.0, burger, idly, fish, egg, pasta, pizza, wine, rissotto
+10, 7.0, fish
+10, 7.0, idly, pasta, fish
+10, 6.0, beer
+10, 5.0, pizza, pasta, rissotto, egg, burger
+10, 3.0, pizza, wine, puri, fish, beer, egg, pasta, idly, burger
+10, 5.0, idly
+10, 10.0, puri, rissotto, fish, idly
+10, 6.0, egg, puri, wine, rissotto, pasta, beer, idly
+10, 5.0, wine, burger, pasta, puri, idly, fish, beer, pizza, rissotto, egg
+10, 9.0, puri, wine
+10, 6.0, beer, idly, egg, puri, burger, pasta
+10, 7.0, idly, egg, fish, rissotto, burger
+10, 10.0, burger
+10, 7.0, burger, puri, rissotto
+10, 4.0, puri, fish, egg, burger, beer
+
